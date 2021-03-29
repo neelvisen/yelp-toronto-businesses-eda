@@ -5,3 +5,5 @@ In the first iteration of this project, I look to identify a statistical relatio
 In the second iteration of this project, I improve upon the data exploration of the first draft by fine-tuning the plots from the first iteration, including a draft of a data visualization stratifying the Yelp data by city wards, and adding three new maps. I conclude by discussing some limitations of this work and how future projects may use and improve upon this notebook.
 
 The final iteration of this project is still in the works and will combine web-scraped data on Toronto community demographics. as well as a formal paper supplement.  
+
+An updated version of the data used in this project can be found at https://www.kaggle.com/yelp-dataset/yelp-dataset.
