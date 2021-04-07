@@ -1,4 +1,4 @@
-# Analyzing Toronto Businesses on Yelp
+# Analyzing Toronto Businesses on Yelp (Python)
 
 Yelp is company that publishes Yelp.com, a website dedicated to crowd-sourced reviews about businesses. Yelp has many key features that help users consume products and services in the most effective way possible. The website and mobile application contains information regarding location (street, city, state/province, country, latitude, longitude), opening and closing hours, services provided, number of reviews, average reviews, business attributes (e.g. accepts credit cards), and taggable categories (e.g. restaurant, health & medical, good for kids, etc.).
 
